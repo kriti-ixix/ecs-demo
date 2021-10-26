@@ -20,6 +20,3 @@ services:
       #- FLASK_SECRET_KEY=${FLASK_SECRET_KEY}
     # bridge - connect to docker container from localhost
     network_mode: bridge
-
-
-
